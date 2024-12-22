@@ -76,13 +76,3 @@
 </div>
 
 ###
-
-<p align="left">Instituição</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://dados.gov.br/api/publico/s3/378cb76e-f35c-431c-b4d8-7f5d5a95143b.png"  />
-</div>
-
-###
