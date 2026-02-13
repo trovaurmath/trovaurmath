@@ -47,3 +47,5 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trovaurmath&radius=16&theme=dracula&area=true" height="300" alt="Gráfico de Atividade" />
 </div>
+
+
