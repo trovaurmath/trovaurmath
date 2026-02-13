@@ -1,141 +1,85 @@
+<!-- Frase com efeito de digitação -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=32F7B2&center=true&vCenter=true&width=460&lines=Vida+longa+e+pr%C3%B3spera"
+    alt="Vida longa e próspera"
+  />
+</p>
 
- <!-- Frase Star Trek com efeito de digitação -->
-  <p align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=32F7B2&center=true&vCenter=true&width=460&lines=Vida+longa+e+próspera" 
-      alt="Vida longa e próspera"
-    />
-  </p>
-  
+<h2 align="center">Estatística do Zurra</h2>
 
-
-<h2 align="left">Estatística do Zurra</h2>
-
-###
-
-<!-- Alinhamos tudo ao centro para melhor visualização -->
 <div align="center">
-
-  <!-- Tabela para colocar Stats e Languages lado a lado -->
+  <!-- Stats + Languages lado a lado -->
   <table>
     <tr>
-      <!-- Stats Graph -->
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=trovaurmath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-          height="150" 
-          alt="stats graph"
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=trovaurmath&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+          height="150"
+          alt="GitHub stats"
         />
       </td>
-      <!-- Languages Graph -->
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=trovaurmath&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=radical&hide_border=true&order=2" 
-          height="150" 
-          alt="languages graph"
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=trovaurmath&layout=compact&langs_count=15&card_width=320&theme=dracula&hide_border=true"
+          height="150"
+          alt="Top languages"
         />
       </td>
     </tr>
   </table>
 
- 
+  <br />
+
   <!-- Troféus -->
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=trovaurmath&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
-    height="150" 
-    alt="trophy graph"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=trovaurmath&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=true"
+    height="150"
+    alt="Trophies"
   />
-  
+
+  <br /><br />
+
   <!-- Gráfico de atividade -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=trovaurmath&radius=16&theme=nord&area=true&order=5" 
-    height="300" 
-    alt="activity-graph graph"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=trovaurmath&radius=16&theme=dracula&area=true"
+    height="300"
+    alt="Activity graph"
   />
 </div>
 
-###
+<h2 align="center">Tecnologias e Linguagens</h2>
 
-<p align="left">Tecnologias e Linguagens</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" height="40" alt="bamboo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="40" alt="doctrine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" height="40" alt="codecov logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B2D4D&style=for-the-badge" height="40" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40" alt="C++" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt=".NET" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="Django" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="Jest" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" height="40" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="Azure" />
+  <img src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge" height="40" alt="Android" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="40" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="Pytest" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" height="40" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="Lua" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="R" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="40" alt="Java" />
 </div>
 
-###
+<br />
 
-<!-- Espaço para informações adicionais -->
 <div align="center">
   <p>
     <strong>Resolução de Exercícios toda Quinta-feira (Física e Matemática)</strong><br />
     Contato: <a href="mailto:matheuszurra500@gmail.com">matheuszurra500@gmail.com</a>
   </p>
 
-  <!-- Exemplo de badges para interação, se quiser manter -->
-  <img 
-    src="https://img.shields.io/github/followers/trovaurmath?style=social" 
-    alt="GitHub Followers" 
-  />
-  <img 
-    src="https://img.shields.io/github/stars/trovaurmath?style=social" 
-    alt="GitHub Stars" 
-  />
+  <img src="https://img.shields.io/github/followers/trovaurmath?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/trovaurmath?style=social" alt="GitHub Stars" />
 </div>
