@@ -1,51 +1,41 @@
-<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
-
-<h3 align="center">Desenvolvedor [Sua Área/Cargo, ex: Front-End / Back-End / Fullstack] apaixonado por tecnologia e resolução de problemas.</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[SEU_EMAIL]@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <strong>Vida longa e próspera 🖖</strong>
 </p>
 
----
+<h2 align="center">Estatística do Zurra</h2>
 
-### 👨‍💻 Sobre mim
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
-- 🔭 Atualmente trabalhando em **[Nome de um projeto atual ou empresa]**
-- 🌱 No momento estou aprendendo **[Tecnologias que está estudando, ex: React, Node.js, Python]**
-- 👯 Procuro colaborar em **[Tipo de projetos que você gosta, ex: projetos Open Source]**
-- 💬 Me pergunte sobre **[Assuntos que você domina, ex: JavaScript, Lógica de Programação]**
-- ⚡ Curiosidade: **[Um hobby ou fato divertido sobre você]**
+<h2 align="center">Tecnologias e Linguagens</h2>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B2D4D&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+</p>
 
-### 🛠️ Tecnologias e Ferramentas
+<hr />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode&theme=dark" alt="Minhas Skills" />
-</div>
+<p align="center">
+  <strong>Resolução de Exercícios toda Quinta-feira (Física e Matemática)</strong><br/>
+  Contato: <a href="mailto:matheuszurra500@gmail.com">matheuszurra500@gmail.com</a>
+</p>
 
-<br>
-
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trovaurmath&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trovaurmath&layout=compact&langs_count=15&card_width=320&theme=dracula&hide_border=true" height="150" alt="Linguagens mais usadas" />
-
-  <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=trovaurmath&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="150" alt="Troféus" />
-
-  <br /><br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trovaurmath&radius=16&theme=dracula&area=true" height="300" alt="Gráfico de Atividade" />
-</div>
-
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/trovaurmath?style=social" />
+  <img src="https://img.shields.io/github/stars/trovaurmath?style=social" />
+</p>
